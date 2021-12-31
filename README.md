@@ -1,4 +1,4 @@
-# altv template typescript
+# altV template typescript
  typescript front end template for altv
  
  to start, just go to the web folder, which is mentioned inside the web client, and run yarn or npm
